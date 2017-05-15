@@ -1,0 +1,15 @@
+2017-05-15 15:37:51,529 ERROR 29176 [-/127.0.0.1/-/6ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/gemicat/workspace/node/egg/egg-example/node_modules/egg/lib/application.js:181:15)
+    at Object.get cookies [as cookies] (/Users/gemicat/workspace/node/egg/egg-example/node_modules/egg/app/extend/context.js:17:65)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/gemicat/workspace/node/egg/egg-example/node_modules/egg-security/app/extend/context.js:76:32)
+    at Object.ensureCsrfSecret (/Users/gemicat/workspace/node/egg/egg-example/node_modules/egg-security/app/extend/context.js:87:13)
+    at Object.csrf (/Users/gemicat/workspace/node/egg/egg-example/node_modules/egg-security/lib/middlewares/csrf.js:13:10)
+    at csrf.next (<anonymous>)
+    at Object.<anonymous> (/Users/gemicat/workspace/node/egg/egg-example/node_modules/koa-compose/index.js:28:19)
+    at Generator.next (<anonymous>)
+    at onFulfilled (/Users/gemicat/workspace/node/egg/egg-example/node_modules/co/index.js:65:19)
+    at /Users/gemicat/workspace/node/egg/egg-example/node_modules/co/index.js:54:5
+
+pid: 29176
+hostname: shiyaxudeMacBook-Pro.local
+

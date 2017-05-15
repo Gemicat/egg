@@ -1,0 +1,5 @@
+2017-05-15 15:37:36,939 INFO 29175 [egg:logger] init all loggers with options: {"dir":"/Users/gemicat/workspace/node/egg/egg-example/logs/egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-05-15 15:37:37,030 INFO 29175 [egg-watcher:agent] watcher start success
+2017-05-15 15:38:10,491 WARN 29175 [agent:development] reload worker because /Users/gemicat/workspace/node/egg/egg-example/config/config.default.js change
+2017-05-15 15:38:17,331 INFO 29246 [egg:logger] init all loggers with options: {"dir":"/Users/gemicat/workspace/node/egg/egg-example/logs/egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-05-15 15:38:17,404 INFO 29246 [egg-watcher:agent] watcher start success

@@ -1,0 +1,36 @@
+2017-05-15 15:37:37,465 INFO 29176 [egg:logger] init all loggers with options: {"dir":"/Users/gemicat/workspace/node/egg/egg-example/logs/egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-05-15 15:37:37,506 INFO 29176 [egg-schedule]: register schedule egg-schedule:/Users/gemicat/workspace/node/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-05-15 15:37:37,506 INFO 29176 [egg-schedule]: register schedule egg-schedule:/Users/gemicat/workspace/node/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-05-15 15:37:37,570 INFO 29176 [egg-static] starting static serve /public/ -> /Users/gemicat/workspace/node/egg/egg-example/app/public
+2017-05-15 15:37:37,572 INFO 29176 [egg-security] use csrf middleware
+2017-05-15 15:37:37,573 INFO 29176 [egg-security] use methodnoallow middleware
+2017-05-15 15:37:37,574 INFO 29176 [egg-security] use noopen middleware
+2017-05-15 15:37:37,575 INFO 29176 [egg-security] use nosniff middleware
+2017-05-15 15:37:37,576 INFO 29176 [egg-security] use xssProtection middleware
+2017-05-15 15:37:37,576 INFO 29176 [egg-security] use xframe middleware
+2017-05-15 15:37:37,577 INFO 29176 [egg-security] compose 6 middlewares into one security middleware
+2017-05-15 15:37:37,604 INFO 29176 [egg-watcher:app] watcher start success
+2017-05-15 15:38:11,108 INFO 29206 [egg:logger] init all loggers with options: {"dir":"/Users/gemicat/workspace/node/egg/egg-example/logs/egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-05-15 15:38:11,164 INFO 29206 [egg-schedule]: register schedule egg-schedule:/Users/gemicat/workspace/node/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-05-15 15:38:11,164 INFO 29206 [egg-schedule]: register schedule egg-schedule:/Users/gemicat/workspace/node/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-05-15 15:38:11,250 INFO 29206 [egg-static] starting static serve /public/ -> /Users/gemicat/workspace/node/egg/egg-example/app/public
+2017-05-15 15:38:11,256 INFO 29206 [egg-security] use csrf middleware
+2017-05-15 15:38:11,257 INFO 29206 [egg-security] use methodnoallow middleware
+2017-05-15 15:38:11,258 INFO 29206 [egg-security] use noopen middleware
+2017-05-15 15:38:11,259 INFO 29206 [egg-security] use nosniff middleware
+2017-05-15 15:38:11,259 INFO 29206 [egg-security] use xssProtection middleware
+2017-05-15 15:38:11,260 INFO 29206 [egg-security] use xframe middleware
+2017-05-15 15:38:11,260 INFO 29206 [egg-security] compose 6 middlewares into one security middleware
+2017-05-15 15:38:11,294 INFO 29206 [egg-watcher:app] watcher start success
+2017-05-15 15:38:17,801 INFO 29247 [egg:logger] init all loggers with options: {"dir":"/Users/gemicat/workspace/node/egg/egg-example/logs/egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-05-15 15:38:17,838 INFO 29247 [egg-schedule]: register schedule egg-schedule:/Users/gemicat/workspace/node/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-05-15 15:38:17,838 INFO 29247 [egg-schedule]: register schedule egg-schedule:/Users/gemicat/workspace/node/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-05-15 15:38:17,875 INFO 29247 [egg-static] starting static serve /public/ -> /Users/gemicat/workspace/node/egg/egg-example/app/public
+2017-05-15 15:38:17,877 INFO 29247 [egg-security] use csrf middleware
+2017-05-15 15:38:17,878 INFO 29247 [egg-security] use methodnoallow middleware
+2017-05-15 15:38:17,878 INFO 29247 [egg-security] use noopen middleware
+2017-05-15 15:38:17,879 INFO 29247 [egg-security] use nosniff middleware
+2017-05-15 15:38:17,879 INFO 29247 [egg-security] use xssProtection middleware
+2017-05-15 15:38:17,880 INFO 29247 [egg-security] use xframe middleware
+2017-05-15 15:38:17,880 INFO 29247 [egg-security] compose 6 middlewares into one security middleware
+2017-05-15 15:38:17,904 INFO 29247 [egg-watcher:app] watcher start success
